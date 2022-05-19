@@ -1,0 +1,1 @@
+# vscode-settings-profile-switcher
